@@ -1,0 +1,30 @@
+.photo {
+    width: 250px;
+    padding-right: 10px;
+}
+.item-info {
+    width: 270px;
+    text-align: left;
+}
+.item-title {
+    border-bottom: solid 2px wheat;
+}
+.item-text {
+    margin-top: 6px;
+}
+hr {
+    width: 70px;
+    margin: auto;
+    margin-bottom: 5px;
+    border: solid 1px chocolate;
+    border-bottom: none;
+}
+.menu {
+    margin-top: 30px;
+}
+.menu-item {
+    margin-top: 50px;
+}
+.filter-btn {
+    margin: 5px;
+}
