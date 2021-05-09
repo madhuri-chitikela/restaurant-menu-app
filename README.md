@@ -2,7 +2,7 @@
 
 description: to be written
 
-[View Demo here](https://madhuri-chitikela.github.io/restuarant-menu-app/)
+[View Demo here](https://madhuri-chitikela.github.io/restaurant-menu-app/)
 
 <img src="docs/restuarant.png" height="500" />
 
